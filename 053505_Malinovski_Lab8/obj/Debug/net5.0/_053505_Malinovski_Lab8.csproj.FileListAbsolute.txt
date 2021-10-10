@@ -1,0 +1,16 @@
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\bin\Debug\net5.0\_053505_Malinovski_Lab8.exe
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\bin\Debug\net5.0\_053505_Malinovski_Lab8.deps.json
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\bin\Debug\net5.0\_053505_Malinovski_Lab8.runtimeconfig.json
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\bin\Debug\net5.0\_053505_Malinovski_Lab8.runtimeconfig.dev.json
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\bin\Debug\net5.0\_053505_Malinovski_Lab8.dll
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\bin\Debug\net5.0\ref\_053505_Malinovski_Lab8.dll
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\bin\Debug\net5.0\_053505_Malinovski_Lab8.pdb
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\obj\Debug\net5.0\_053505_Malinovski_Lab8.csprojAssemblyReference.cache
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\obj\Debug\net5.0\_053505_Malinovski_Lab8.GeneratedMSBuildEditorConfig.editorconfig
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\obj\Debug\net5.0\_053505_Malinovski_Lab8.AssemblyInfoInputs.cache
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\obj\Debug\net5.0\_053505_Malinovski_Lab8.AssemblyInfo.cs
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\obj\Debug\net5.0\_053505_Malinovski_Lab8.csproj.CoreCompileInputs.cache
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\obj\Debug\net5.0\_053505_Malinovski_Lab8.dll
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\obj\Debug\net5.0\ref\_053505_Malinovski_Lab8.dll
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\obj\Debug\net5.0\_053505_Malinovski_Lab8.pdb
+D:\bsuir-isp-3-sem-main\053505_Malinovski_Lab8\obj\Debug\net5.0\_053505_Malinovski_Lab8.genruntimeconfig.cache
