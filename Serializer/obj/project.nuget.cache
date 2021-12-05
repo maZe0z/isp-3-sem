@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2r11M9tNdUN/IUaK8HJcXZaCaIAxhojvBWl2EDgY2Iu0se+s+5YHS5LQSCBCabLYf0spZM6lIfSpU7K1EV+exg==",
+  "success": false,
+  "projectFilePath": "D:\\isp-3-sem\\Serializer\\Serializer.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'D:\\isp-3-sem\\053505_Mazurenko_Lab9.Domain\\053505_Mazurenko_Lab9.Domain.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "D:\\isp-3-sem\\053505_Mazurenko_Lab9.Domain\\053505_Mazurenko_Lab9.Domain.csproj",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}
